@@ -5,44 +5,49 @@ const cv = {
 
 const projects = [
   {
-    name: "Projet API",
-    description: "description_pas_faites",
+    name: "Projet Nova",
+    description: "Projet sur 1 an visant à créer une application web (seul)",
+    link: "https://github.com/Phosnay/ProjetNovaSPA"
+  },
+    {
+    name: "Projet Fil Rouge (front)",
+    description: "Projet en équipe de 3 visant à créer une application web complète",
+    link: "https://github.com/MartinChrrr/front-pfr"
+  },  
+  {
+    name: "Projet Fil Rouge (back)",
+    description: "Projet en équipe de 3 visant à créer une application web complète",
+    link: "https://github.com/KohakuC/back-pfr"
+  },
+  {
+    name: "API",
+    description: "API Rest sur le jeu Dofus (seul)",
     link: "https://github.com/Phosnay/dofusAPIThomasB"
   },
   {
-    name: "Projet 2",
-    description: "description_pas_faites",
-    link: "https://github.com/tonpseudo/projet-2"
+    name: "Django",
+    description: "Projet Django avec une base de données PostgreSQL (seul)",
+    link: "https://github.com/Phosnay/django"
   },
   {
-    name: "Projet 3",
-    description: "description_pas_faites",
-    link: "https://github.com/tonpseudo/projet-3"
+    name: "Space Invaders",
+    description: "Jeu Space Invaders en Python (PyGame), (2 personnes)",
+    link: "https://github.com/Phosnay/spaceInvaders"
   },
   {
-    name: "Projet 4",
-    description: "description_pas_faites",
-    link: "https://github.com/tonpseudo/projet-4"
+    name: "Flask",
+    description: "Projet Flask avec une base de données SQLite (2 personnes)",
+    link: "https://github.com/nino-mau/flask-devops-project"
   },
   {
-    name: "Projet 5",
-    description: "description_pas_faites",
-    link: "https://github.com/tonpseudo/projet-5"
-  },  
-  {
-    name: "Projet 6",
-    description: "description_pas_faites",
-    link: "https://github.com/tonpseudo/projet-6"
+    name: "SQL_requests",
+    description: "Projet de requêtes SQL (seul)",
+    link: "https://github.com/Phosnay/sql_requests"
   },
   {
-    name: "Projet 7",
-    description: "description_pas_faites",
-    link: "https://github.com/tonpseudo/projet-7"
-  },
-  {
-    name: "Projet 8",
-    description: "description_pas_faites",
-    link: "https://github.com/tonpseudo/projet-8"
+    name: "CustomerApp",
+    description: "Projet d'application client (seul)",
+    link: "https://github.com/Phosnay/DiiageCustomerApp"
   }
 ];
 
